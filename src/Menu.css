@@ -1,0 +1,23 @@
+.menu-heading{
+    display: flex;
+    margin-top: 1%;
+    height: 7vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 1%;
+}
+
+.menu-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-image img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}

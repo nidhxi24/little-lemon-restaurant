@@ -1,0 +1,90 @@
+.review{
+    height: 90vh;
+    background-color: #495e57;
+    /* margin-bottom: 10%; */
+}
+.review-main{
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100%;
+    padding-top: 2%;
+
+}
+
+.review-heading{
+    /* margin: 2%; */
+    height: 5%;
+    font-size: 2.2em;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 1%;
+    /* margin-left : 7%; */
+}
+
+.review-grid{
+    height: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* gap: 4em; */
+    column-gap: 9em;
+    row-gap: 0em;   
+    align-items: center;
+}
+
+.review-flex-box-1{
+    display: flex;
+    flex-direction: column;
+    background-color: white ;
+    /* align-items: center; */
+    /* justify-content: center; */
+    width: 30%;
+    height: 40%;
+    border-radius: 5%;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+}
+
+.review-flex-box-img{
+    display: flex;
+    height: 30%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+
+}
+
+.review-flex-box-img img{
+    height: 100%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.review-flex-box-name{
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.review-flex-box-star{
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+
+}
+.fas fa-star{
+    color: black;
+}
+
+.review-flex-box-des{
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #495e57;
+}

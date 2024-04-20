@@ -1,0 +1,103 @@
+.footer{
+    display: flex;
+    height: 30vh;
+    background-color: #495e57;
+    width: 100%;
+    color: white;
+    /* margin-top: 2%;
+    margin-bottom: 2%; */
+        /* margin-left: 5%;
+        margin-right: 5%; */
+}
+
+.footer-main{
+    display: flex;
+    width: 100%;
+    /* height: 100% ; */
+    /* margin-top: 3%;
+    margin-bottom: 3%; */
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+}
+
+.footer-logo{
+    width: 15%
+}
+.footer-logo img{
+    height: 100%;
+    width: 70%;
+}
+.footer-quick-links{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    width: 20%;
+    /* justify-content: space-around; */
+}
+
+.footer-quick-contact{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-left: 10%;
+    /* justify-content: space-between; */
+    /* font-size: 1.2em;
+    font-weight: 500;
+    margin-bottom: 7%; */
+    /* margin: 10%; */
+    /* justify-content: space-between; */
+    /* justify-content: center     ;     */
+}
+
+.footer-quick-connect-us{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    justify-content: space-between;
+    /* margin: 10%; */
+    /* justify-content: space-between; */
+    margin-left: 10%;
+    /* font-size: 1.2em;
+    font-weight: 500;
+    margin-bottom: 7%; */
+}
+
+.footer-heading{
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-bottom: 7%;
+}
+
+.footer-sub{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center;  */
+    margin-bottom: 5%;
+    /* justify-content: space-around; */
+    /* margin-right: 1%; */
+    /* margin-left: 5%; */
+}
+
+.footer-sub-icon{
+    width:10%;
+    margin-right: 0.5%;
+}
+
+.footer-sub a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer-sub a:hover{
+    color: #F4CE14;
+}
+/* 
+.footer-sub-name{
+    color: floralwhite;
+    text-decoration: none;
+} */
