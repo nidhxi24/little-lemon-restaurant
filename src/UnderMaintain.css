@@ -1,0 +1,13 @@
+.under-maintainence{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: 2em;
+    color: #495e57;
+}
+.maintainence-icon{
+    font-size: 5em;
+}
