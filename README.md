@@ -7,13 +7,13 @@ It allows users to browse menu items, place orders, and view their order history
 
 ## Features
 
-- 🧭 **Responsive Design** — Works seamlessly on desktop and mobile.  
-- 🍽️ **Dynamic Menu** — Menu items are fetched from the backend API.  
-- 🛒 **Order System** — Users can add items to the cart and place orders.  
-- 🔐 **Authentication** — Supports Google, Apple, and Facebook login.  
-- 💾 **Redux State Management** — Handles user authentication and order state efficiently.  
-- 🔔 **Order History** — Displays user-specific orders in the “My Orders” section.  
-- ⚡ **API Integration** — Connected to a .NET backend using REST APIs.
+- **Responsive Design** — Works seamlessly on desktop and mobile.  
+- **Dynamic Menu** — Menu items are fetched from the backend API.  
+- **Order System** — Users can add items to the cart and place orders.  
+- **Authentication** — Supports Google, Apple, and Facebook login.  
+- **Redux State Management** — Handles user authentication and order state efficiently.  
+- **Order History** — Displays user-specific orders in the “My Orders” section.  
+- **API Integration** — Connected to a .NET backend using REST APIs.
 
 ---
 
